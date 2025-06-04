@@ -2,7 +2,7 @@
 
 👋 Namaste! This is the official GitHub organization for **pugofer**.
 
-![A dancing pug](images/pug_image.jpg)
+<img src="images/pug_image.jpg" alt="A dancing pug" width="180">
 
 Here you’ll find our projects, source code, and resources related to the Pugofer project and the Pug interpreter specifically.  
 Explore our repositories to see what we’re building and how you can get involved!
